@@ -1,6 +1,6 @@
 # Vipsmart Website on Netlify
 
-Welcome to the Vipsmart website hosted on Netlify. This repository contains the source code and configuration for deploying the Vipsmart website on the Netlify platform.
+Welcome to the Vipsmart website hosted on Netlify. This repository contains the source code and configuration for deploying the Vipsmart website on the Netlify platform. (BCA PROJECT)
 
 ## Getting Started
 
